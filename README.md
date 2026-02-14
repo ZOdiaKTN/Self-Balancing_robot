@@ -17,3 +17,7 @@ PID control
 Motors
 
 https://youtu.be/-PCuDnpgiew?si=wm3iPtT9VE6tgVD1
+
+ Control of self-balancing robot pdf 
+
+ https://www.diva-portal.org/smash/get/diva2:1737768/FULLTEXT01.pdf
